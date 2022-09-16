@@ -1,6 +1,6 @@
-; string [] array = new string [] {"hello","2","world",":-)"};
-; Console.WriteLine($"{"Было:"} {"hello"},{"2"},{"world"},{":-)"}");
-; Console.WriteLine("Cтало: " + array[1] + "," + array[3]);
+// string [] array = new string [] {"hello","2","world",":-)"};
+// Console.WriteLine($"{"Было:"} {"hello"},{"2"},{"world"},{":-)"}");
+// Console.WriteLine("Cтало: " + array[1] + "," + array[3]);
 
 string [] strArray = new string [] {"hello","2","world",":-)"};
 string a = "hello";
